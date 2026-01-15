@@ -1,0 +1,73 @@
+/* * {
+    width: 0px;
+    height: 0px;
+    box-sizing: border-box;
+} */
+header {
+    text-align: center;
+}
+.title_0 {
+    background-color: rgb(0, 142, 142);
+    color: aliceblue;
+    padding: 20px;
+    border-radius: 10px;
+    position: relative;
+    top: 0px;
+    font-size: 18px;
+}
+.title_1 {
+    background-color: aqua;
+    font-size: 18px;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+a {
+    text-decoration: none;
+    padding: 6px;
+    border-radius: 10px;
+}
+a:hover {
+    background-color: red;
+    font-size: 20px;
+}
+h1 {
+    font-weight: bold;
+}
+body {
+    background-color: aquamarine;
+    margin: 0px;
+}
+h2 {
+    font-weight: bold;
+    font-size: 25px;
+}
+.gioithieu {
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 8px;
+    margin-top: 10px;
+}
+.uytin {
+    background-color: aliceblue;
+    border-left: 10px solid blue;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 20px;
+}
+.icons {
+    list-style-type: none;
+    line-height: 25px;
+}
+footer {
+    text-align: center;
+    background-color: rgb(9, 9, 251);
+    border-radius: 10px;
+    position: relative;
+    bottom: 0px;
+    color: aliceblue;
+    font-size: 18px;
+    height: 200px;
+    padding: 15px;
+    margin: 50px;
+}
